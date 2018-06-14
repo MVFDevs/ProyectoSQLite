@@ -21,6 +21,6 @@ public class Cliente {
     }
 
     public void prueba(){
-
+        int i = 0;
     }
 }
