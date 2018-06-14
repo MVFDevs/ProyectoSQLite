@@ -19,4 +19,8 @@ public class Cliente {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
+    public void prueba(){
+
+    }
 }
