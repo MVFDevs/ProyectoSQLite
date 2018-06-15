@@ -21,7 +21,7 @@ public class NegocioMantenedorCliente extends SQLiteOpenHelper
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         db.execSQL("DROP TABLE IF EXISTS cliente");
-        onCreate(db);
+        onCreate(db);/*fjgljh*/
     }
 
     //Método para insertar datos
